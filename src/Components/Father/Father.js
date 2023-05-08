@@ -3,7 +3,7 @@ import Myself from '../Myself/Myself';
 import Brother from '../Brother/Brother';
 import Sister from '../Sister/Sister';
 
-const Father = ({ house }) => {
+const Father = ({ house}) => {
     return (
         <div>
             <h4>Father</h4>

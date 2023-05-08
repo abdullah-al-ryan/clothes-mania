@@ -16,3 +16,10 @@ Conditional Rendering
 3. && operator (if condition is true, I want to display something)
 4. || operator (if condition is false, I want to display something)
 */
+
+/*
+Context API
+1. declare a context
+2. set provider
+3. useContext in the place where you want to get the context
+*/
